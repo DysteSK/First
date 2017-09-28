@@ -1,0 +1,13 @@
+{
+  "name": "Dyste",
+  "authors": [
+    "dysteSK <dyste@qq.com>"
+  ],
+  "description": "web test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
